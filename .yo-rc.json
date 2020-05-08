@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "io.jojoaddison"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "editor",
+        "packageName": "io.jojoaddison",
+        "packageFolder": "io/jojoaddison",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": "spring-websocket",
+        "databaseType": "mongodb",
+        "devDatabaseType": "mongodb",
+        "prodDatabaseType": "mongodb",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ZTFmZjZmMTNkMGViMTIzOWRmYjQwNDhhNGM5OGIzZjljMzE1OWQ1ZDM1NzIzYWVlODc0OGY2MjQ5ZWIyNDY1YzM2NGQ5MDllOWI2ZTg1MmEyNzA2MzU0YmEwNDM4NGNjNjg1ZGQzM2FiZjhjM2U3ZTdmYTg1ZGI2YjI3ZGE0MmU=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
