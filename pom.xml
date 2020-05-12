@@ -486,7 +486,7 @@
                             <requireJavaVersion>
                                 <!-- Until JHipster supports JDK 9 -->
                                 <message>You are running an incompatible version of Java. JHipster requires JDK ${java.version}</message>
-                                <version>[1.8,1.9)</version>
+                                <version>[1.8,13)</version>
                             </requireJavaVersion>
                         </rules>
                     </configuration>
